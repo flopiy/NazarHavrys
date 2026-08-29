@@ -1,0 +1,28 @@
+{
+    "asset": "b67aee1106ce28e408e8d4271d773094",
+    "fileName": "019ef18c-0ddf-7f10-8344-da78a1646828.png",
+    "prompt": "A perfectly round glowing magical energy orb, 2D game projectile VFX, smooth circular ball of violet and magenta arcane energy with a bright white-hot glowing core, soft radial glow, clean stylized digital art, symmetrical sphere, centered, isolated on a fully transparent background, no background, no scenery, no square edges",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

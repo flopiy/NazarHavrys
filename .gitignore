@@ -1,0 +1,32 @@
+# Системні папки Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Pp]ackages/com.unity.ai.assistant/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+*.suo
+*.user
+*.userprefs
+
+# AI Toolkit та тимчасові відновлення (разом з метафайлами)
+Assets/AI Toolkit/
+Assets/AI Toolkit.meta
+Assets/_Recovery/
+Assets/_Recovery.meta
+
+# Тимчасові та системні файли
+*.tmp
+*.meta.bak
+.DS_Store
+Thumbs.db

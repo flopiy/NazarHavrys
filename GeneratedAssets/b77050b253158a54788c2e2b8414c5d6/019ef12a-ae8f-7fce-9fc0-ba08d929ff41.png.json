@@ -1,0 +1,28 @@
+{
+    "asset": "b77050b253158a54788c2e2b8414c5d6",
+    "fileName": "019ef12a-ae8f-7fce-9fc0-ba08d929ff41.png",
+    "prompt": "A translucent glowing magical bubble shield dome, 2D game VFX, circular protective energy barrier with violet and cyan arcane glow, subtle hexagonal energy facets, semi-transparent center, bright glowing rim, fantasy magic shield aura, clean stylized digital art, perfectly circular, centered, isolated on a fully transparent background, no background, no scenery",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

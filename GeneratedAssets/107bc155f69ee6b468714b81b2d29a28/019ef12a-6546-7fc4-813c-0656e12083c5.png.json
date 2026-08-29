@@ -1,0 +1,28 @@
+{
+    "asset": "107bc155f69ee6b468714b81b2d29a28",
+    "fileName": "019ef12a-6546-7fc4-813c-0656e12083c5.png",
+    "prompt": "A glowing magical energy arrow projectile pointing to the RIGHT, 2D game VFX, violet and magenta arcane energy with a bright white-hot core, sleek elongated arrowhead with a trailing energy tail, fantasy spell bolt, clean stylized digital art, side view, horizontal orientation, centered, isolated on a fully transparent background, no background, no scenery",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
